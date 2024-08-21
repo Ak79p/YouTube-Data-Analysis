@@ -69,11 +69,6 @@ This project involves connecting to the YouTube Data API using a Python client t
     python analyze_data.py
     ```
 
-### Files
-
-- `youtube_api.py` - Connects to the YouTube API and provides utility functions.
-- `search_videos.py` - Searches for videos and extracts data.
-- `analyze_data.py` - Analyzes the data and performs calculations.
 
 ## Contributing
 
